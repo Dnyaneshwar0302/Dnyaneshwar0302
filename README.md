@@ -132,22 +132,34 @@
 
 <p align="center">
 
-<a href="https://github.com/Dnyaneshwar0302">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="mailto:dnyaneshwarsawale997@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/dnyaneshwar-sawale">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/dnyaneshwar-sawale-b2a619309">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dnyaneshwar0302">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/916361873025">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-<div align="center">
+## 📫 Contact Me
 
-### 💫 "Code • Learn • Build • Repeat"
+📧 **Email:** dnyaneshwarsawale997@gmail.com
 
-<img src="https://komarev.com/ghpvc/?username=Dnyaneshwar0302&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+📱 **Phone:** +91 6361873025
 
-</div>
+💬 **WhatsApp:** +91 6361873025
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/dnyaneshwar-sawale-b2a619309
+
+🐙 **GitHub:** https://github.com/Dnyaneshwar0302
