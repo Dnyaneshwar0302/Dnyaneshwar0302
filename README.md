@@ -1,81 +1,76 @@
-# 👋 Hi, I'm Dnyaneshwar Sawale
+
+# <p align="center">🚀 Dnyaneshwar Sawale</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3500&pause=900&color=7C3AED&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Engineer;Java+Full+Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+Something+New+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Engineer;Java+Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Real+World+Projects;Welcome+to+My+GitHub+Profile+🚀" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dnyaneshwar0302&style=for-the-badge&color=blueviolet"/>
-  <img src="https://img.shields.io/github/followers/Dnyaneshwar0302?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20to-Collaborate-success?style=for-the-badge"/>
+<a href="https://github.com/Dnyaneshwar0302"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://www.linkedin.com/in/dnyaneshwar-sawale-b2a619309/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:dnyaneshwarsawale997@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/></a>
+<a href="https://wa.me/916361873025"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp"/></a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Dnyaneshwar0302&style=for-the-badge&color=blueviolet"/>
+<img src="https://img.shields.io/github/followers/Dnyaneshwar0302?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/Dnyaneshwar0302?affiliations=OWNER&style=for-the-badge"/>
 </p>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-🎓 B.E. in Artificial Intelligence & Data Science  
+🎓 B.E. Artificial Intelligence & Data Science  
 🏫 Government Engineering College, Bidar
 
-💡 Passionate about solving real-world problems with Java, AI and Full Stack Development.
+💻 Passionate about Java Full Stack Development, AI, Machine Learning and building useful software.
 
-- 🌱 Currently learning **Spring Boot, React, DSA**
-- 🤖 Interested in AI, ML & Computer Vision
+- 🌱 Learning: Spring Boot • React • Advanced DSA
 - ☁ AWS Academy Cloud Foundations Certified
-- 💬 Ask me about Java, Python, Flask, React
+- 🤖 Interests: AI, Deep Learning, Computer Vision
+- 🎯 Goal: Build impactful software and contribute to Open Source
 
 ---
 
 # 🛠 Tech Stack
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
+![Java](https://skillicons.dev/icons?i=java,python,c,js)
 
-### Web
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+### Frontend
+![Frontend](https://skillicons.dev/icons?i=html,css,react)
 
 ### Backend
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![Backend](https://skillicons.dev/icons?i=spring,flask)
 
-### Database
-MySQL • SQLite
-
----
-
-# 🌟 Featured Projects
-
-### 😊 Web-Based Emotion Detection
-AI-powered facial emotion recognition using Python, Flask, TensorFlow, OpenCV and Deep Learning.
-
-### ☕ Cafe Management System
-Order, billing and management system developed in Python.
-
-### ✅ TaskBuddy React
-Modern task management application built with React.
-
-### 🏦 Simple Bank Account System
-Java OOP project demonstrating encapsulation.
-
-### 🌐 Front-End Code
-Responsive HTML/CSS project.
+### Database & Tools
+![Tools](https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,eclipse)
 
 ---
 
-# 📈 GitHub Analytics
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 😊 Web Based Emotion Detection | AI-powered facial emotion detection using Python, Flask, TensorFlow & OpenCV. |
+| ☕ Cafe Management System | Billing and management application. |
+| ✅ TaskBuddy React | Modern task management application built with React. |
+| 🏦 Simple Bank Account System | Java OOP project. |
+| 🌐 Front-End Code | Responsive HTML/CSS/JavaScript project. |
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dnyaneshwar0302&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnyaneshwar0302&layout=compact&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dnyaneshwar0302&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnyaneshwar0302&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Dnyaneshwar0302&theme=tokyonight"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Dnyaneshwar0302&theme=tokyonight"/>
 </p>
 
 <p align="center">
@@ -88,20 +83,45 @@ Responsive HTML/CSS project.
 
 ---
 
+# 🐍 Contribution Snake
+
+> Enable GitHub Actions and use Platane's snake workflow.
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Dnyaneshwar0302
+          outputs: dist/github-contribution-grid-snake.svg
+```
+
+---
+
 # 🏆 Certification
 
 - AWS Academy Cloud Foundations
 
 ---
 
-# 📫 Connect
+# 📬 Connect
 
-- GitHub: https://github.com/Dnyaneshwar0302
-- LinkedIn: *(add your LinkedIn URL)*
-- Email: dnyaneshwarsawale997@gmail.com
+- 🌐 GitHub: https://github.com/Dnyaneshwar0302
+- 💼 LinkedIn: https://www.linkedin.com/in/dnyaneshwar-sawale-b2a619309/
+- 📧 Email: dnyaneshwarsawale997@gmail.com
+- 💬 WhatsApp: +91 6361873025
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! ⭐
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=120&section=footer"/>
 </p>
