@@ -642,7 +642,7 @@ export default function DevPortfolio() {
           <p
             className="italic text-sm md:text-base mb-3"
             style={{ color: "#c4b5fd" }}
-          >
+          >s
             "Code. Learn. Build. Repeat."
           </p>
           <p className="text-xs" style={{ color: "#5b6690" }}>
