@@ -1,284 +1,648 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=260&section=header&text=Hi%20there!%20👋%20I'm%20Dnyaneshwar%20Sawale&fontSize=34&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineer%20•%20Java%20Full%20Stack%20Developer&descAlignY=55&descSize=16&fontFamily=Poppins" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,25:1E3A8A,50:2563EB,75:7C3AED,100:4F46E5&text=Dnyaneshwar%20Sawale&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20%26%20Data%20Science%20Engineer&descAlignY=58&animation=fadeIn"/>
 
-<br/>
+<br>
 
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I+build+real-world+applications+with+clean+code;AI+%26+Data+Science+Engineer+🎓;Java+Full+Stack+Developer+💻;Problem+Solver+%2B+Tech+Enthusiast&font=Poppins&center=true&width=600&height=50&color=A78BFA&vCenter=true&size=20&pause=1800&background=00000000"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Dnyaneshwar+Sawale;Full+Stack+Developer;AI+%26+Data+Science+Engineer;Java+%7C+Spring+Boot+%7C+React;Always+Learning+New+Technologies+🚀" />
+
+<br><br>
+
+<a href="https://github.com/Dnyaneshwar0302">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/><br/>
+<a href="https://www.linkedin.com/in/dnyaneshwar-sawale-b2a619309/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/badge/🎯_Problem_Solver-1B1F3B?style=for-the-badge&labelColor=1B1F3B&color=A78BFA"/>
-<img src="https://img.shields.io/badge/🌐_Open_Source_Enthusiast-1B1F3B?style=for-the-badge&labelColor=1B1F3B&color=60A5FA"/>
+<a href="mailto:dnyaneshwarsawale997@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/916361873025">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<br><br>
+
+![](https://komarev.com/ghpvc/?username=Dnyaneshwar0302&style=for-the-badge&color=blue)
 
 </div>
 
-<br/>
+---
 
-<table width="100%">
+# 💫 About Me
+
+```yaml
+Name      : Dnyaneshwar Sawale
+Role      : Full Stack Developer
+Degree    : B.E. Artificial Intelligence & Data Science
+Location  : Karnataka, India
+
+Currently Learning
+  - Spring Boot
+  - React
+  - Advanced Java
+  - Data Structures & Algorithms
+
+Interests
+  - Full Stack Development
+  - Artificial Intelligence
+  - Machine Learning
+  - Problem Solving
+  - Open Source
+
+Goal
+  Build scalable applications and continuously improve as a software engineer.
+```
+
+---
+
+# 🚀 Quick Introduction
+
+```java
+public class Dnyaneshwar {
+
+    String role = "Full Stack Developer";
+
+    String[] languages = {
+        "Java",
+        "Python",
+        "JavaScript",
+        "SQL"
+    };
+
+    String[] frameworks = {
+        "Spring Boot",
+        "React",
+        "Bootstrap"
+    };
+
+    String database = "MySQL";
+
+    String cloud = "AWS";
+
+    String motto = "Code • Learn • Build • Repeat";
+}
+```
+
+---
+
+<div align="center">
+
+### ⭐ "Building real-world applications one project at a time."
+
+</div>
+
+---
+
+<div align="center">
+
+# ⚡ Tech Stack
+
+<table>
 <tr>
-<td width="34%" align="center">
-<img src="https://komarev.com/ghpvc/?username=Dnyaneshwar0302&style=for-the-badge&color=A78BFA&labelColor=1B1F3B&label=👁️+PROFILE+VIEWS"/>
+<td align="center" width="96">
+
+<img src="https://skillicons.dev/icons?i=java" width="65"/>
+
+### Java
+
 </td>
-<td width="33%" align="center">
-<img src="https://img.shields.io/github/followers/Dnyaneshwar0302?style=for-the-badge&color=60A5FA&labelColor=1B1F3B&label=👥+FOLLOWERS"/>
+
+<td align="center" width="96">
+
+<img src="https://skillicons.dev/icons?i=spring" width="65"/>
+
+### Spring
+
 </td>
-<td width="33%" align="center">
-<img src="https://img.shields.io/github/stars/Dnyaneshwar0302?style=for-the-badge&color=FBBF24&labelColor=1B1F3B&label=⭐+TOTAL+STARS"/>
+
+<td align="center" width="96">
+
+<img src="https://skillicons.dev/icons?i=react" width="65"/>
+
+### React
+
 </td>
+
+<td align="center" width="96">
+
+<img src="https://skillicons.dev/icons?i=js" width="65"/>
+
+### JavaScript
+
+</td>
+
 </tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=html" width="65"/>
+
+### HTML5
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=css" width="65"/>
+
+### CSS3
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=python" width="65"/>
+
+### Python
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql" width="65"/>
+
+### MySQL
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=git" width="65"/>
+
+### Git
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=github" width="65"/>
+
+### GitHub
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode" width="65"/>
+
+### VS Code
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=aws" width="65"/>
+
+### AWS
+
+</td>
+
+</tr>
+
 </table>
 
-<br/>
+</div>
 
-## 🌙 About Me
+---
 
-<table width="100%">
+# 💻 Development Skills
+
+<table>
+
 <tr>
-<td style="background:#1B1F3B;">
 
-🎓&nbsp; BE in Artificial Intelligence & Data Science
-<br/>
-🏫&nbsp; Studying at Government Engineering College, Bidar
-<br/>
-💻&nbsp; Passionate about building real-world applications using Java, React and Spring Boot
-<br/>
-🌱&nbsp; Currently learning: Advanced Java, Spring Boot, React JS, DSA, System Design
-<br/>
-🎯&nbsp; Career goal: Java Full Stack Developer & AI/Data Science Professional
+<td width="50%">
+
+## 👨‍💻 Languages
+
+- ☕ Java
+- 🐍 Python
+- 🌐 JavaScript
+- 🗄 SQL
 
 </td>
+
+<td width="50%">
+
+## ⚙ Backend
+
+- Spring Boot
+- REST APIs
+- JDBC
+- Hibernate
+
+</td>
+
 </tr>
+
+<tr>
+
+<td>
+
+## 🎨 Frontend
+
+- HTML5
+- CSS3
+- Bootstrap
+- React
+
+</td>
+
+<td>
+
+## 🛠 Tools
+
+- Git
+- GitHub
+- VS Code
+- Postman
+
+</td>
+
+</tr>
+
 </table>
 
-<br/>
+---
+
+# 📚 Currently Learning
+
+```text
+🚀 Spring Boot Advanced
+
+⚛ React Ecosystem
+
+☁ AWS Cloud
+
+🧠 System Design
+
+📈 DSA
+
+🐳 Docker
+```
+
+---
+
+# 🏆 Certifications
+
+| Certificate | Status |
+|-------------|--------|
+| AWS Academy Cloud Foundations | ✅ |
+| Java Programming | ✅ |
+| Python Programming | ✅ |
+| SQL & Database | ✅ |
+
+---
 
 <div align="center">
 
-━━━━━━━━━━━━━━━━━━━━━ ⭐ ━━━━━━━━━━━━━━━━━━━━━
+## ⚡ Tech Badges
 
-## 🛠️ Tech Stack
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 
 </div>
 
-<table width="100%">
+---
+
+<div align="center">
+
+# 🚀 Featured Projects
+
+<p>
+Building practical applications with Java, Spring Boot, React, Python and AI.
+</p>
+
+</div>
+
+<table>
+
 <tr>
-<td width="20%" valign="top">
 
-**⚙️ Languages**
+<td width="50%">
 
-<img src="https://skillicons.dev/icons?i=java,py,js&theme=dark" />
+<h3>🧠 Emotion Detection System</h3>
 
-</td>
-<td width="20%" valign="top">
+AI-powered web application that detects human emotions in real-time using facial expressions and provides emotion analytics.
 
-**🎨 Frontend**
+**✨ Features**
 
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap&theme=dark" />
+- 😊 Real-time emotion detection
+- 📊 Emotion analytics
+- 📄 Report generation
+- 📈 Dashboard
+- 🔐 User Authentication
 
-</td>
-<td width="20%" valign="top">
+**🛠 Tech Stack**
 
-**🗄️ Backend**
+`Python` `Flask` `OpenCV` `TensorFlow` `SQLite` `HTML` `CSS` `JavaScript`
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs&theme=dark" />
-
-</td>
-<td width="20%" valign="top">
-
-**💾 Database**
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
+<a href="https://github.com/Dnyaneshwar0302">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
-<td width="20%" valign="top">
 
-**🧰 Tools & Cloud**
+<td width="50%">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,aws&theme=dark" />
+<h3>📝 Online Examination System</h3>
+
+A full-stack web application for creating exams, conducting online tests, and evaluating student performance.
+
+**✨ Features**
+
+- 👨‍🎓 Student Login
+- 👨‍🏫 Admin Dashboard
+- 📝 Online Exams
+- 📊 Results
+- 📈 Performance Analytics
+
+**🛠 Tech Stack**
+
+`Java` `Spring Boot` `React` `MySQL`
+
+<a href="https://github.com/Dnyaneshwar0302">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
+
 </tr>
+
+<tr>
+
+<td width="50%">
+
+<h3>💻 Java Development</h3>
+
+Collection of Java programs covering Object-Oriented Programming, Collections, Exception Handling, Multithreading and DSA.
+
+### Topics
+
+- OOP
+- Collections
+- Exception Handling
+- File Handling
+- Multithreading
+- DSA
+
+`Java`
+
+<a href="https://github.com/Dnyaneshwar0302">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+<h3>🤖 AI & Machine Learning</h3>
+
+Repository containing AI, Machine Learning and Data Science experiments, models and mini projects.
+
+### Includes
+
+- Machine Learning
+- Data Analysis
+- Deep Learning
+- Python
+
+`Python` `Machine Learning`
+
+<a href="https://github.com/Dnyaneshwar0302">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
 </table>
 
-<br/>
+---
 
 <div align="center">
 
-━━━━━━━━━━━━━━━━━━━━━ 🪐 ━━━━━━━━━━━━━━━━━━━━━
+# 📈 Development Focus
 
-## 🚀 My Projects
+| Area | Level |
+|------|------|
+| ☕ Java | ⭐⭐⭐⭐⭐ |
+| 🌱 Spring Boot | ⭐⭐⭐⭐☆ |
+| ⚛ React | ⭐⭐⭐⭐☆ |
+| 🗄 MySQL | ⭐⭐⭐⭐☆ |
+| 🐍 Python | ⭐⭐⭐⭐☆ |
+| 💻 HTML/CSS | ⭐⭐⭐⭐⭐ |
+| 🌐 JavaScript | ⭐⭐⭐⭐☆ |
 
 </div>
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-<h3 align="center">🎭 Emotion Detection System</h3>
-
-<p align="center"><sub>Web-based AI application that analyzes facial expressions in real time using deep learning, TensorFlow & DeepFace, with a Flask backend, SQLite database and PDF report generation.</sub></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-1B1F3B?style=flat-square&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/TensorFlow-1B1F3B?style=flat-square&logo=tensorflow&logoColor=FF6F00"/>
-<img src="https://img.shields.io/badge/OpenCV-1B1F3B?style=flat-square&logo=opencv&logoColor=5C3EE8"/>
-<img src="https://img.shields.io/badge/Flask-1B1F3B?style=flat-square&logo=flask&logoColor=FFFFFF"/>
-</p>
-
-<p align="center">
-<a href="https://github.com/Dnyaneshwar0302/Web-Based-Emotion-Detection-"><img src="https://img.shields.io/badge/🔗_GitHub-A78BFA?style=for-the-badge&labelColor=1B1F3B"/></a>
-</p>
-
-</td>
-<td width="33%" valign="top">
-
-<h3 align="center">📝 Online Examination System</h3>
-
-<p align="center"><sub>Full-stack exam platform with a React frontend, Spring Boot backend, MySQL database, secure authentication & authorization, and AI-based evaluation features.</sub></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/React-1B1F3B?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Spring_Boot-1B1F3B?style=flat-square&logo=springboot&logoColor=6DB33F"/>
-<img src="https://img.shields.io/badge/MySQL-1B1F3B?style=flat-square&logo=mysql&logoColor=4479A1"/>
-</p>
-
-<p align="center">
-<a href="https://github.com/Dnyaneshwar0302"><img src="https://img.shields.io/badge/🔗_GitHub-60A5FA?style=for-the-badge&labelColor=1B1F3B"/></a>
-</p>
-
-</td>
-<td width="33%" valign="top">
-
-<h3 align="center">✅ TaskBuddy React</h3>
-
-<p align="center"><sub>A modern, responsive task management app built with React, featuring full CRUD, Dark/Light mode, Framer Motion animations & dynamic progress tracking.</sub></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/React-1B1F3B?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Framer_Motion-1B1F3B?style=flat-square&logo=framer&logoColor=0055FF"/>
-<img src="https://img.shields.io/badge/JavaScript-1B1F3B?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-</p>
-
-<p align="center">
-<a href="https://github.com/Dnyaneshwar0302/TaskBuddy-React"><img src="https://img.shields.io/badge/🔗_GitHub-FBBF24-FBBF24?style=for-the-badge&labelColor=1B1F3B"/></a>
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-<h3 align="center">☕ Cafe Management System</h3>
-
-<p align="center"><sub>A Python-based cafe management system with order handling and billing features for smooth day-to-day cafe operations.</sub></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-1B1F3B?style=flat-square&logo=python&logoColor=3776AB"/>
-</p>
-
-<p align="center">
-<a href="https://github.com/Dnyaneshwar0302/Cafe-Management-System-"><img src="https://img.shields.io/badge/🔗_GitHub-A78BFA?style=for-the-badge&labelColor=1B1F3B"/></a>
-</p>
-
-</td>
-<td width="33%" valign="top">
-
-<h3 align="center">🏦 Simple Bank Account System</h3>
-
-<p align="center"><sub>A Java project demonstrating Object-Oriented Programming principles, especially encapsulation, through a simple bank account system.</sub></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Java-1B1F3B?style=flat-square&logo=java&logoColor=007396"/>
-</p>
-
-<p align="center">
-<a href="https://github.com/Dnyaneshwar0302/Simple-Bank-Account-System"><img src="https://img.shields.io/badge/🔗_GitHub-60A5FA?style=for-the-badge&labelColor=1B1F3B"/></a>
-</p>
-
-</td>
-<td width="33%" valign="top">
-
-<h3 align="center">🌐 Front-End Code</h3>
-
-<p align="center"><sub>My very first hosted HTML page — the start of my frontend development journey.</sub></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-1B1F3B?style=flat-square&logo=html5&logoColor=E34F26"/>
-</p>
-
-<p align="center">
-<a href="https://github.com/Dnyaneshwar0302/Front-End-Code"><img src="https://img.shields.io/badge/🔗_GitHub-FBBF24?style=for-the-badge&labelColor=1B1F3B"/></a>
-</p>
-
-</td>
-</tr>
-</table>
-
-<br/>
+---
 
 <div align="center">
 
-━━━━━━━━━━━━━━━━━━━━━ 📊 ━━━━━━━━━━━━━━━━━━━━━
+## 🌟 My Development Journey
 
-## 📈 GitHub Stats
+```text
+Started with Programming
+        │
+        ▼
+Learned Java & Python
+        │
+        ▼
+Built AI Projects
+        │
+        ▼
+Developed Full Stack Applications
+        │
+        ▼
+Learning Advanced Backend Technologies
+        │
+        ▼
+🚀 Looking for Software Development Opportunities
+```
 
 </div>
 
+---
+
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Dnyaneshwar0302&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=1B1F3B&title_color=A78BFA&icon_color=60A5FA&text_color=C9D1D9"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnyaneshwar0302&layout=compact&theme=midnight-purple&hide_border=true&bg_color=1B1F3B&title_color=A78BFA&text_color=C9D1D9"/>
+# 📊 GitHub Analytics
 
-<br/><br/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dnyaneshwar0302&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github"/>
 
-<img src="https://streak-stats.demolab.com/?user=Dnyaneshwar0302&theme=midnight-purple&hide_border=true&background=1B1F3B&stroke=A78BFA&ring=60A5FA&fire=FBBF24&currStreakLabel=A78BFA"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Dnyaneshwar0302&theme=tokyonight&hide_border=true&border_radius=15"/>
 
-<br/><br/>
+<br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dnyaneshwar0302&theme=github-compact&hide_border=true&bg_color=1B1F3B&color=A78BFA&line=60A5FA&point=FBBF24"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnyaneshwar0302&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Dnyaneshwar0302&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1"/>
-
-<br/><br/>
-
-🐍 **Contribution Snake**
-
-<img src="https://raw.githubusercontent.com/Dnyaneshwar0302/Dnyaneshwar0302/output/github-snake-dark.svg" width="90%"/>
-
-<sub>set up via <code>Platane/snk</code> GitHub Action in the <code>Dnyaneshwar0302/Dnyaneshwar0302</code> repo for this to render</sub>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dnyaneshwar0302&theme=tokyonight"/>
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-━━━━━━━━━━━━━━━━━━━━━ 🔗 ━━━━━━━━━━━━━━━━━━━━━
+# 🏆 GitHub Trophies
 
-## 📫 Connect With Me
-
-<a href="https://www.linkedin.com/in/dnyaneshwar-sawale-b2a619309"><img src="https://img.shields.io/badge/LinkedIn-1B1F3B?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a>
-<a href="https://github.com/Dnyaneshwar0302"><img src="https://img.shields.io/badge/GitHub-1B1F3B?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
-<a href="mailto:dnyaneshwarsawale997@gmail.com"><img src="https://img.shields.io/badge/Email-1B1F3B?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
-<a href="https://wa.me/916361873025"><img src="https://img.shields.io/badge/WhatsApp-1B1F3B?style=for-the-badge&logo=whatsapp&logoColor=25D366"/></a>
-
-<br/><br/>
-
-📧 dnyaneshwarsawale997@gmail.com &nbsp;|&nbsp; 📱 +91 6361873025
+<img src="https://github-profile-trophy.vercel.app/?username=Dnyaneshwar0302&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-*"Code. Learn. Build. Repeat."*
+# 📈 Contribution Graph
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=150&section=footer"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dnyaneshwar0302&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Dnyaneshwar0302/Dnyaneshwar0302/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# ⚡ Coding Activity
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dnyaneshwar0302&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 💻 Developer Quote
+
+> **"First, solve the problem. Then, write the code."**  
+> — John Johnson
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 Open Source Journey
+
+```text
+          🌱 Started Learning Programming
+                       │
+                       ▼
+               ☕ Java Programming
+                       │
+                       ▼
+              🐍 Python Development
+                       │
+                       ▼
+          🤖 AI & Machine Learning
+                       │
+                       ▼
+          🌐 Full Stack Development
+                       │
+                       ▼
+         🚀 Building Real World Projects
+                       │
+                       ▼
+          💼 Seeking SDE Opportunities
+```
+
+</div>
+
+---
+
+---
+
+<div align="center">
+
+# 🤝 Let's Connect
+
+<p>
+I'm always open to discussing new opportunities, collaborations, Full Stack Development, Java, AI & Data Science, and exciting projects.
+</p>
+
+<br>
+
+<a href="mailto:dnyaneshwarsawale997@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dnyaneshwar-sawale-b2a619309/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dnyaneshwar0302">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/916361873025">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+# 💙 Thanks for Visiting!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Thank+you+for+visiting+my+GitHub!;Let's+Build+Something+Amazing+Together!;Keep+Learning.+Keep+Building.+🚀"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Favorite Quote
+
+> **"The best way to predict the future is to create it."**  
+> — Peter Drucker
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:2563EB,100:0F172A&height=120&section=footer"/>
 
 </div>
