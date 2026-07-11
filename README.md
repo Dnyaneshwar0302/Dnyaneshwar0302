@@ -1,267 +1,269 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6C63FF,100:00D4FF&height=280&section=header&text=Dnyaneshwar%20Sawale&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Java%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,50:E0BBE4,100:AEE1F9&height=280&section=header&text=Welcome%20to%20my%20Universe%20✨&fontSize=42&fontColor=5C4B66&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Digital%20Dreamer%20%7C%20Streamer%20🎀&descAlignY=58&descSize=17&fontFamily=Comic+Sans+MS" width="100%"/>
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+%F0%9F%91%8B+I'm+Dnyaneshwar+Sawale;AI+%26+Data+Science+Engineer;Java+Full+Stack+Developer;Frontend+Developer;Problem+Solver;Open+Source+Enthusiast&font=Fira+Code&center=true&width=600&height=50&color=58A6FF&vCenter=true&size=28&pause=1500&background=00000000" />
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hiii+👋+I'm+a+Frontend+Dev!;I+build+cute+%26+cozy+websites+🎀;Anime+%2B+Code+%2B+Coffee+☕;Let's+create+something+magical+✨&font=Fredoka+One&center=true&width=600&height=60&color=B983A6&vCenter=true&size=26&pause=1600&background=00000000"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=dnyaneshwar-sawale&style=for-the-badge&color=6c63ff&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/dnyaneshwar-sawale?style=for-the-badge&color=00D4FF&labelColor=0D1117"/>
-<img src="https://img.shields.io/github/stars/dnyaneshwar-sawale?style=for-the-badge&color=8A2BE2&labelColor=0D1117"/>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=90&section=header&text=🌸%20🎀%20💖%20✨%20🦋%20☁️%20🌙%20⭐%20💖%20🎀%20🌸&fontSize=28"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/🩷_Profile_Views-FFD1DC?style=for-the-badge&labelColor=FFF0F5"/>
+<img src="https://img.shields.io/badge/💜_Followers-E0BBE4?style=for-the-badge&labelColor=FFF0F5"/>
+<img src="https://img.shields.io/badge/⭐_Stars-AEE1F9?style=for-the-badge&labelColor=FFF0F5"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/📍_Location-India-58A6FF?style=for-the-badge&labelColor=0D1117"/>
-
-<br/><br/>
-
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/></a>
+<img src="https://img.shields.io/badge/📍_Somewhere_Cozy_%26_Cute-FFDAC1?style=for-the-badge&labelColor=FFF0F5&logoColor=5C4B66"/>
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/pink.gif" width="90%"/>
+</div>
 
 <br/>
 
-## 🧊 About Me
+## 💖 About Me
 
-<table width="100%">
+<div align="center">
+
+<table width="90%">
 <tr>
-<td>
+<td align="center" style="background:#FFF0F5;">
 
-```yaml
-Engineer:
-  name: "Dnyaneshwar Sawale"
-  education: "BE in Artificial Intelligence & Data Science"
-  role: "Java Full Stack Developer"
-  currently_learning: "Spring Boot"
-  passion: "Solving DSA problems & building real-world projects"
-  status: "🚀 Building. 📚 Learning every day."
-```
+🌸 &nbsp; Frontend Developer who loves building **soft, dreamy, pastel interfaces** &nbsp; 🌸
+<br/><br/>
+🎀 &nbsp; Currently leveling up my **React & UI design** skills &nbsp; 🎀
+<br/><br/>
+🩷 &nbsp; I turn coffee and playlists into cute, functional websites &nbsp; 🩷
+<br/><br/>
+✨ &nbsp; Streaming code sessions & sharing the journey &nbsp; ✨
+<br/><br/>
+🦋 &nbsp; Obsessed with clean design, kawaii aesthetics & smooth UX &nbsp; 🦋
+<br/><br/>
+🌙 &nbsp; Night owl coder, powered by matcha lattes &nbsp; 🌙
 
 </td>
 </tr>
 </table>
 
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/lilac.gif" width="90%"/>
+</div>
+
+<br/>
+
+## 🎀 Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,py,java&theme=light" />
+
+<br/><br/>
+
+### 🌷 Frontend Magic
+<img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap,sass&theme=light" />
+
+<br/><br/>
+
+### ☁️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,mongodb&theme=light" />
+
+<br/><br/>
+
+### 🩷 Tools & Design
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,canva&theme=light" />
+
+<br/><br/>
+
+### 🚀 Deployment
+<img src="https://skillicons.dev/icons?i=vercel,netlify,aws&theme=light" />
+
+</div>
+
+<br/>
+
 <table width="100%">
 <tr>
-<td width="20%" align="center">🎓<br/><b>Education</b><br/><sub>AI & Data Science, BE</sub></td>
-<td width="20%" align="center">💻<br/><b>Focus</b><br/><sub>Java Full Stack Dev</sub></td>
-<td width="20%" align="center">🌱<br/><b>Learning</b><br/><sub>Spring Boot</sub></td>
-<td width="20%" align="center">⚡<br/><b>Loves</b><br/><sub>Solving DSA</sub></td>
-<td width="20%" align="center">🚀<br/><b>Building</b><br/><sub>Real World Projects</sub></td>
+<td align="center" width="16%"><img src="https://img.shields.io/badge/HTML5-FFD1DC?style=for-the-badge&logo=html5&logoColor=5C4B66&labelColor=FFF0F5"/></td>
+<td align="center" width="16%"><img src="https://img.shields.io/badge/CSS3-E0BBE4?style=for-the-badge&logo=css3&logoColor=5C4B66&labelColor=FFF0F5"/></td>
+<td align="center" width="16%"><img src="https://img.shields.io/badge/JavaScript-AEE1F9?style=for-the-badge&logo=javascript&logoColor=5C4B66&labelColor=FFF0F5"/></td>
+<td align="center" width="16%"><img src="https://img.shields.io/badge/React-FFDAC1?style=for-the-badge&logo=react&logoColor=5C4B66&labelColor=FFF0F5"/></td>
+<td align="center" width="16%"><img src="https://img.shields.io/badge/Tailwind-FFD1DC?style=for-the-badge&logo=tailwindcss&logoColor=5C4B66&labelColor=FFF0F5"/></td>
+<td align="center" width="16%"><img src="https://img.shields.io/badge/Figma-E0BBE4?style=for-the-badge&logo=figma&logoColor=5C4B66&labelColor=FFF0F5"/></td>
 </tr>
 </table>
 
 <br/>
 
-## 🧬 Tech Stack
-
 <div align="center">
-
-**Programming Languages**
-
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,sqlite" />
-
-<br/><br/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind" />
-
-<br/><br/>
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,postman" />
-
-<br/><br/>
-
-**Database**
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-
-<br/><br/>
-
-**Tools & Design**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman,figma" />
-
-<br/><br/>
-
-**Cloud & Deployment**
-
-<img src="https://skillicons.dev/icons?i=aws,netlify,render" />
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/pink.gif" width="90%"/>
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
-
-<br/>
-
-## 🗂️ Featured Projects
+## 🌷 Projects
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-<div align="center">
-<img src="https://img.shields.io/badge/🧠-Emotion_Detection_System-6C63FF?style=for-the-badge&labelColor=161B22"/>
-</div>
-
-<br/>
-
-**Emotion Detection System**
-
-Real-time facial emotion recognition system built with computer vision and deep learning, classifying human emotions from live video and images.
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌸-Kawaii_Portfolio-FFD1DC?style=for-the-badge&labelColor=FFF0F5"/>
 
 <br/><br/>
 
-<a href="#"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=58A6FF"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-00D4FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-
-</td>
-<td width="33%" valign="top">
-
-<div align="center">
-<img src="https://img.shields.io/badge/📝-Online_Examination_System-00D4FF?style=for-the-badge&labelColor=161B22"/>
-</div>
-
+**Kawaii Portfolio Site**
 <br/>
-
-**Online Examination System**
-
-A full-stack web platform for creating, conducting, and evaluating online exams with role-based access for admins and students.
-
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<sub>A dreamy pastel portfolio with soft animations, glassmorphism cards & cute micro-interactions ✨</sub>
 
 <br/><br/>
 
-<a href="#"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=58A6FF"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-00D4FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-
-</td>
-<td width="33%" valign="top">
-
-<div align="center">
-<img src="https://img.shields.io/badge/🌐-Portfolio_Website-8A2BE2?style=for-the-badge&labelColor=161B22"/>
-</div>
-
-<br/>
-
-**Portfolio Website**
-
-A modern, responsive personal portfolio showcasing projects, skills, and experience with smooth animations and a clean UI.
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
 <br/><br/>
 
-<a href="#"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=58A6FF"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-00D4FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-FFF0F5?style=for-the-badge&logo=github&logoColor=B983A6"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-FFDAC1?style=for-the-badge&logo=vercel&logoColor=5C4B66"/></a>
 
 </td>
-</tr>
-</table>
+<td width="33%" valign="top" align="center">
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
-
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dnyaneshwar-sawale&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=00D4FF&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnyaneshwar-sawale&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+<img src="https://img.shields.io/badge/🎀-Streamer_Dashboard-E0BBE4?style=for-the-badge&labelColor=FFF0F5"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=dnyaneshwar-sawale&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=6C63FF&fire=00D4FF&currStreakLabel=00D4FF"/>
+**Cute Streamer Dashboard**
+<br/>
+<sub>A pastel-themed stream overlay & dashboard with live chat, alerts and adorable widgets 🎀</sub>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dnyaneshwar-sawale&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=6C63FF&point=00D4FF"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=dnyaneshwar-sawale&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=1"/>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-FFF0F5?style=for-the-badge&logo=github&logoColor=B983A6"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-FFDAC1?style=for-the-badge&logo=vercel&logoColor=5C4B66"/></a>
 
-</div>
+</td>
+<td width="33%" valign="top" align="center">
 
+<img src="https://img.shields.io/badge/💌-Pastel_Blog_App-AEE1F9?style=for-the-badge&labelColor=FFF0F5"/>
+
+<br/><br/>
+
+**Pastel Blog App**
 <br/>
+<sub>A soft, minimal blogging platform with mood boards, cute tags and cozy typography 💌</sub>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<br/><br/>
 
-<br/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 
-## 🏆 Achievements
+<br/><br/>
 
-<table width="100%">
-<tr>
-<td width="20%" align="center">
-<img src="https://img.shields.io/badge/AWS-Cloud_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=161B22"/>
-</td>
-<td width="20%" align="center">
-<img src="https://img.shields.io/badge/Java-Certified-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=161B22"/>
-</td>
-<td width="20%" align="center">
-<img src="https://img.shields.io/badge/Python-Certified-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=161B22"/>
-</td>
-<td width="20%" align="center">
-<img src="https://img.shields.io/badge/DSA-Proficient-6C63FF?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=161B22"/>
-</td>
-<td width="20%" align="center">
-<img src="https://img.shields.io/badge/Open_Source-Contributor-00D4FF?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=161B22"/>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-FFF0F5?style=for-the-badge&logo=github&logoColor=B983A6"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-FFDAC1?style=for-the-badge&logo=vercel&logoColor=5C4B66"/></a>
+
 </td>
 </tr>
 </table>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/lilac.gif" width="90%"/>
+</div>
 
 <br/>
 
-## 🔗 Connect With Me
+## 🌈 GitHub Stats
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-00D4FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=161B22"/></a>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=cotton_candy&hide_border=true&bg_color=00000000&title_color=B983A6&icon_color=FF9DBB&text_color=5C4B66"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=cotton_candy&hide_border=true&bg_color=00000000&title_color=B983A6&text_color=5C4B66"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=your-username&theme=github-dark-blue&hide_border=true&background=00000000&stroke=FF9DBB&ring=E0BBE4&fire=FFB6C1&currStreakLabel=B983A6"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true&bg_color=00000000&color=B983A6&line=FF9DBB&point=E0BBE4"/>
+
+<br/><br/>
+
+🐍 **Contribution Snake**
+
+<img src="https://raw.githubusercontent.com/your-username/your-username/output/pastel-snake.svg" width="90%"/>
+
+<sub>✨ set up via <code>Platane/snk</code> GitHub Action for the pastel snake animation ✨</sub>
 
 </div>
 
 <br/>
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/pink.gif" width="90%"/>
+</div>
 
-### 💭 "Code. Learn. Build. Repeat."
+<br/>
+
+## 💌 Connect With Me
+
+<div align="center">
+
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-FFD1DC?style=for-the-badge&logo=linkedin&logoColor=5C4B66&labelColor=FFF0F5"/></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/GitHub-E0BBE4?style=for-the-badge&logo=github&logoColor=5C4B66&labelColor=FFF0F5"/></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-AEE1F9?style=for-the-badge&logo=vercel&logoColor=5C4B66&labelColor=FFF0F5"/></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Email-FFDAC1?style=for-the-badge&logo=gmail&logoColor=5C4B66&labelColor=FFF0F5"/></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:6C63FF,100:0D1117&height=150&section=footer" width="100%"/>
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/lilac.gif" width="90%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+🌸 ⋆｡ ﾟ☁︎ 🎀 ⋆⁺₊✧ 💖 ✧₊⋆ 🎀 ☁︎ﾟ｡⋆ 🌸
+
+### *"Keep coding and stay magical ✨"*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:AEE1F9,50:E0BBE4,100:FFD1DC&height=150&section=footer"/>
+
+</div>
