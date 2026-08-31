@@ -52,55 +52,80 @@ I enjoy translating ideas into functioning software — from AI-driven applicati
 
 ### Featured Projects
 
-**Emotion Detection System**
-<br/>
-Web-based AI application that analyzes facial expressions in real time using deep learning. Built with a Flask backend and SQLite database, and includes automated PDF report generation.
-<br/>
-**Tech:** Python, TensorFlow, OpenCV, Flask
-<br/>
-**Repository:** https://github.com/Dnyaneshwar0302/Web-Based-Emotion-Detection-
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B1F3B,100:4C3D8F&height=55&text=Emotion%20Detection%20System&fontSize=15&fontColor=FFFFFF&animation=fadeIn&fontAlignY=60"/>
+<br/><br/>
+<sub>Web-based AI application that analyzes facial expressions in real time using deep learning. Built with a Flask backend and SQLite database, and includes automated PDF report generation.</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-1B1F3B?style=flat-square&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/TensorFlow-1B1F3B?style=flat-square&logo=tensorflow&logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/OpenCV-1B1F3B?style=flat-square&logo=opencv&logoColor=5C3EE8"/>
+<img src="https://img.shields.io/badge/Flask-1B1F3B?style=flat-square&logo=flask&logoColor=FFFFFF"/>
+<br/><br/>
+<a href="https://github.com/Dnyaneshwar0302/Web-Based-Emotion-Detection-"><img src="https://img.shields.io/badge/View_Repository-60A5FA?style=for-the-badge&labelColor=1B1F3B"/></a>
+</td>
+<td width="33%" valign="top">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B1F3B,100:2E5C8A&height=55&text=Online%20Examination%20System&fontSize=15&fontColor=FFFFFF&animation=fadeIn&fontAlignY=60"/>
+<br/><br/>
+<sub>Full-stack examination platform featuring a React frontend and Spring Boot backend, with secure authentication/authorization and AI-assisted evaluation of results.</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/React-1B1F3B?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Spring_Boot-1B1F3B?style=flat-square&logo=springboot&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/MySQL-1B1F3B?style=flat-square&logo=mysql&logoColor=4479A1"/>
+<br/><br/>
+<a href="https://github.com/Dnyaneshwar0302"><img src="https://img.shields.io/badge/View_Repository-60A5FA?style=for-the-badge&labelColor=1B1F3B"/></a>
+</td>
+<td width="33%" valign="top">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B1F3B,100:8A6D2E&height=55&text=TaskBuddy%20React&fontSize=15&fontColor=FFFFFF&animation=fadeIn&fontAlignY=60"/>
+<br/><br/>
+<sub>Responsive React-based task management application featuring CRUD operations, dark/light theme switching, Framer Motion animations, and dynamic progress tracking.</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/React-1B1F3B?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Framer_Motion-1B1F3B?style=flat-square&logo=framer&logoColor=0055FF"/>
+<img src="https://img.shields.io/badge/JavaScript-1B1F3B?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+<br/><br/>
+<a href="https://github.com/Dnyaneshwar0302/TaskBuddy-React"><img src="https://img.shields.io/badge/View_Repository-60A5FA?style=for-the-badge&labelColor=1B1F3B"/></a>
+</td>
+</tr>
+</table>
 
-**Online Examination System**
 <br/>
-Full-stack examination platform featuring a React frontend and Spring Boot backend, with secure authentication/authorization and AI-assisted evaluation of results.
-<br/>
-**Tech:** React, Spring Boot, MySQL
-<br/>
-**Repository:** https://github.com/Dnyaneshwar0302
-
-**TaskBuddy React**
-<br/>
-Responsive React-based task management application featuring CRUD operations, dark/light theme switching, Framer Motion animations, and dynamic progress tracking.
-<br/>
-**Tech:** React, Framer Motion, JavaScript
-<br/>
-**Repository:** https://github.com/Dnyaneshwar0302/TaskBuddy-React
 
 ### Other Projects
 
-**Cafe Management System**
-<br/>
-Python-based application for managing cafe orders and billing to streamline day-to-day operations.
-<br/>
-**Tech:** Python
-<br/>
-**Repository:** https://github.com/Dnyaneshwar0302/Cafe-Management-System-
-
-**Simple Bank Account System**
-<br/>
-Java project demonstrating core Object-Oriented Programming principles, with a particular focus on encapsulation, through a simple bank account model.
-<br/>
-**Tech:** Java
-<br/>
-**Repository:** https://github.com/Dnyaneshwar0302/Simple-Bank-Account-System
-
-**Front-End Code**
-<br/>
-My first hosted HTML page, marking the start of my front-end development journey.
-<br/>
-**Tech:** HTML5
-<br/>
-**Repository:** https://github.com/Dnyaneshwar0302/Front-End-Code
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B1F3B,100:3D5A80&height=55&text=Cafe%20Management%20System&fontSize=15&fontColor=FFFFFF&animation=fadeIn&fontAlignY=60"/>
+<br/><br/>
+<sub>Python-based application for managing cafe orders and billing to streamline day-to-day operations.</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-1B1F3B?style=flat-square&logo=python&logoColor=3776AB"/>
+<br/><br/>
+<a href="https://github.com/Dnyaneshwar0302/Cafe-Management-System-"><img src="https://img.shields.io/badge/View_Repository-A78BFA?style=for-the-badge&labelColor=1B1F3B"/></a>
+</td>
+<td width="33%" valign="top">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B1F3B,100:5A3D80&height=55&text=Simple%20Bank%20Account%20System&fontSize=14&fontColor=FFFFFF&animation=fadeIn&fontAlignY=60"/>
+<br/><br/>
+<sub>Java project demonstrating core Object-Oriented Programming principles, with a particular focus on encapsulation, through a simple bank account model.</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Java-1B1F3B?style=flat-square&logo=java&logoColor=007396"/>
+<br/><br/>
+<a href="https://github.com/Dnyaneshwar0302/Simple-Bank-Account-System"><img src="https://img.shields.io/badge/View_Repository-A78BFA?style=for-the-badge&labelColor=1B1F3B"/></a>
+</td>
+<td width="33%" valign="top">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B1F3B,100:806D3D&height=55&text=Front-End%20Code&fontSize=15&fontColor=FFFFFF&animation=fadeIn&fontAlignY=60"/>
+<br/><br/>
+<sub>My first hosted HTML page, marking the start of my front-end development journey.</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/HTML5-1B1F3B?style=flat-square&logo=html5&logoColor=E34F26"/>
+<br/><br/>
+<a href="https://github.com/Dnyaneshwar0302/Front-End-Code"><img src="https://img.shields.io/badge/View_Repository-A78BFA?style=for-the-badge&labelColor=1B1F3B"/></a>
+</td>
+</tr>
+</table>
 
 <br/>
 
