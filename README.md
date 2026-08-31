@@ -1,8 +1,6 @@
 <div align="center">
 
-# Dnyaneshwar Sawale
-
-### Java Full Stack Developer | AI & Data Science Engineer
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1B1F3B,50:3D2E7C,100:1B1F3B&height=220&section=header&text=Dnyaneshwar%20Sawale&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20AI%20%26%20Data%20Science%20Engineer&descAlignY=58&descSize=18&fontFamily=Poppins"/>
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Building+real-world+applications+with+clean+code;Java+%7C+Spring+Boot+%7C+React+%7C+Python;AI+%26+Data+Science+Engineer&font=Poppins&center=true&width=560&height=45&color=60A5FA&vCenter=true&size=18&pause=2000&background=00000000" />
 
@@ -16,7 +14,9 @@
 
 <br/>
 
-## About Me
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B1F3B,100:302B63&height=50&text=About%20Me&fontSize=20&fontColor=FFFFFF&animation=fadeIn&fontAlignY=60"/>
+
+<br/>
 
 I'm a BE student in **Artificial Intelligence & Data Science** at **Government Engineering College, Bidar**, building real-world applications with **Java, React, and Spring Boot**. My work spans full-stack web development and applied AI/data science, and I'm continuously strengthening my foundation in **Advanced Java, System Design, and Data Structures & Algorithms**.
 
@@ -24,7 +24,9 @@ I enjoy translating ideas into functioning software — from AI-driven applicati
 
 <br/>
 
-## Tech Stack
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B1F3B,100:302B63&height=50&text=Tech%20Stack&fontSize=20&fontColor=FFFFFF&animation=fadeIn&fontAlignY=60"/>
+
+<br/>
 
 **Languages**
 <br/>
@@ -48,7 +50,7 @@ I enjoy translating ideas into functioning software — from AI-driven applicati
 
 <br/>
 
-## Projects
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B1F3B,100:302B63&height=50&text=Projects&fontSize=20&fontColor=FFFFFF&animation=fadeIn&fontAlignY=60"/>
 
 ### Featured Projects
 
@@ -129,26 +131,27 @@ I enjoy translating ideas into functioning software — from AI-driven applicati
 
 <br/>
 
-## GitHub Stats
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B1F3B,100:302B63&height=50&text=GitHub%20Stats&fontSize=20&fontColor=FFFFFF&animation=fadeIn&fontAlignY=60"/>
 
 <div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Dnyaneshwar0302&show_icons=true&theme=default&hide_border=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnyaneshwar0302&layout=compact&theme=default&hide_border=true"/>
-
 <br/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Dnyaneshwar0302&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnyaneshwar0302&layout=compact&theme=default&hide_border=true&count_private=true&cache_seconds=1800"/>
+
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=Dnyaneshwar0302&theme=default&hide_border=true"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dnyaneshwar0302&theme=minimal&hide_border=true"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Dnyaneshwar0302&theme=flat&no-frame=true&margin-w=15&row=1"/>
 
-<br/>
+<br/><br/>
 
 **Contribution Snake**
 
@@ -158,14 +161,15 @@ I enjoy translating ideas into functioning software — from AI-driven applicati
 
 <br/>
 
-## Contact
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B1F3B,100:302B63&height=50&text=Connect%20With%20Me&fontSize=20&fontColor=FFFFFF&animation=fadeIn&fontAlignY=60"/>
 
 <div align="center">
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dnyaneshwar-sawale-b2a619309)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dnyaneshwar0302)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dnyaneshwarsawale997@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/916361873025)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dnyaneshwar-sawale-b2a619309)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dnyaneshwar0302)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dnyaneshwarsawale997@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916361873025)
 
 </div>
 
@@ -174,3 +178,5 @@ I enjoy translating ideas into functioning software — from AI-driven applicati
 <div align="center">
 <sub>Code. Learn. Build. Repeat.</sub>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1B1F3B,50:3D2E7C,100:1B1F3B&height=120&section=footer&animation=fadeIn"/>
