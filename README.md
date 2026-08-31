@@ -1,51 +1,37 @@
 <div align="center">
 
-<!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050814,25:0D1B2A,50:1E1B4B,75:0E7490,100:06B6D4&height=260&section=header&text=Dnyaneshwar%20Sawale&fontSize=44&fontColor=38BDF8&animation=fadeIn&fontAlignY=36&desc=Frontend%20Developer%20%7C%20Java%20Full%20Stack%20Developer%20%7C%20AI%20%26%20Data%20Science%20Engineer&descAlignY=58&descSize=16&fontFamily=Poppins"/>
+# ⚡ Dnyaneshwar Sawale
+### 🚀 Frontend Developer | Java Full Stack Developer | AI & Data Science Engineer
 
-<!-- ANIMATED TYPING SUBHEADER -->
 <a href="https://github.com/Dnyaneshwar0302">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+Modern+%26+Interactive+Web+Experiences;Frontend+Developer+%E2%9C%A8+React+%26+Modern+JavaScript;Java+Full+Stack+Developer+%E2%9A%A1+Spring+Boot+%2B+React;AI+%26+Data+Science+Engineer+%F0%9F%A7%A0;Turning+Ideas+into+Scalable%2C+Real-World+Software&font=Fira+Code&center=true&width=620&height=45&color=38BDF8&vCenter=true&size=18&pause=1800&background=00000000" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- PROFILE METRICS BADGES -->
-<a href="https://github.com/Dnyaneshwar0302">
-  <img src="https://komarev.com/ghpvc/?username=Dnyaneshwar0302&style=for-the-badge&color=0EA5E9&labelColor=0A0F1D&label=PROFILE+VIEWS" alt="Profile Views"/>
-</a>
+[![Profile Views](https://komarev.com/ghpvc/?username=Dnyaneshwar0302&style=for-the-badge&color=0EA5E9&labelColor=0A0F1D&label=PROFILE+VIEWS)](https://github.com/Dnyaneshwar0302)
 &nbsp;
-<a href="https://github.com/Dnyaneshwar0302?tab=followers">
-  <img src="https://img.shields.io/github/followers/Dnyaneshwar0302?style=for-the-badge&color=6366F1&labelColor=0A0F1D&logo=github&logoColor=white&label=FOLLOWERS" alt="GitHub Followers"/>
-</a>
+[![GitHub Followers](https://img.shields.io/github/followers/Dnyaneshwar0302?style=for-the-badge&color=6366F1&labelColor=0A0F1D&logo=github&logoColor=white&label=FOLLOWERS)](https://github.com/Dnyaneshwar0302?tab=followers)
 &nbsp;
-<a href="https://github.com/Dnyaneshwar0302?tab=repositories">
-  <img src="https://img.shields.io/github/stars/Dnyaneshwar0302?style=for-the-badge&color=EC4899&labelColor=0A0F1D&logo=star&logoColor=white&label=STARS" alt="GitHub Stars"/>
-</a>
+[![GitHub Stars](https://img.shields.io/github/stars/Dnyaneshwar0302?style=for-the-badge&color=EC4899&labelColor=0A0F1D&logo=star&logoColor=white&label=STARS)](https://github.com/Dnyaneshwar0302?tab=repositories)
 
 <br/><br/>
 
-<!-- QUICK ACTION BUTTONS -->
-<a href="https://www.linkedin.com/in/dnyaneshwar-sawale-b2a619309">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0F1D" alt="LinkedIn"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0F1D)](https://www.linkedin.com/in/dnyaneshwar-sawale-b2a619309)
 &nbsp;
-<a href="mailto:dnyaneshwarsawale997@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0F1D" alt="Email"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0F1D)](https://github.com/Dnyaneshwar0302)
 &nbsp;
-<a href="https://wa.me/916361873025">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0A0F1D" alt="WhatsApp"/>
-</a>
+[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0F1D)](mailto:dnyaneshwarsawale997@gmail.com)
+&nbsp;
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0A0F1D)](https://wa.me/916361873025)
 
 </div>
 
 <br/>
 
-<!-- ==================== ABOUT ME ==================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1D,50:1E1B4B,100:6366F1&height=50&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20About%20Me&fontSize=20&fontColor=FFFFFF&animation=fadeIn&fontAlignY=60"/>
+---
 
-<br/>
+## 👨‍💻 About Me
 
 I am a **Frontend & Java Full Stack Developer** and a **BE student in Artificial Intelligence & Data Science** at **Government Engineering College, Bidar**. 
 
@@ -58,10 +44,9 @@ I specialize in crafting responsive, visually engaging, and high-performance web
 
 <br/>
 
-<!-- ==================== FRONTEND SPOTLIGHT ==================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1D,50:083344,100:06B6D4&height=50&text=%F0%9F%8E%A8%20Frontend%20Engineering%20%26%20UI%2FUX&fontSize=20&fontColor=FFFFFF&animation=fadeIn&fontAlignY=60"/>
+---
 
-<br/>
+## 🎨 Frontend Engineering & UI/UX
 
 <div align="center">
 
@@ -92,10 +77,9 @@ I specialize in crafting responsive, visually engaging, and high-performance web
 
 <br/>
 
-<!-- ==================== FULL TECH STACK ==================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1D,50:0F172A,100:3B82F6&height=50&text=%F0%9F%9B%A0%EF%B8%8F%20Complete%20Tech%20Stack&fontSize=20&fontColor=FFFFFF&animation=fadeIn&fontAlignY=60"/>
+---
 
-<br/>
+## 🛠️ Complete Tech Stack
 
 <table width="100%">
 <tr>
@@ -152,128 +136,125 @@ I specialize in crafting responsive, visually engaging, and high-performance web
 
 <br/>
 
-<!-- ==================== FEATURED PROJECTS ==================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1D,50:3B0764,100:EC4899&height=50&text=%E2%AD%90%20Featured%20Projects&fontSize=20&fontColor=FFFFFF&animation=fadeIn&fontAlignY=60"/>
+---
 
-<br/>
+## ⭐ Featured Projects
 
 <table width="100%">
 <tr>
 <!-- Project 1 -->
 <td width="33%" valign="top">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:6366F1&height=55&text=Emotion%20Detection%20System&fontSize=14&fontColor=FFFFFF&animation=fadeIn&fontAlignY=60"/>
-<br/><br/>
-<b>AI Real-Time Expression Analyzer</b>
-<br/><br/>
-<sub>Web-based AI application analyzing real-time facial expressions using Deep Learning (TensorFlow, OpenCV & DeepFace) with a Flask backend, SQLite database, and automated PDF report generation.</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-<br/><br/>
-<a href="https://github.com/Dnyaneshwar0302/Web-Based-Emotion-Detection-">
-  <img src="https://img.shields.io/badge/View_Repository_%E2%9E%94-6366F1?style=for-the-badge&labelColor=0A0F1D" alt="View Repository"/>
-</a>
+
+### 🌟 Emotion Detection
+**AI Real-Time Expression Analyzer**
+
+Web-based AI application analyzing real-time facial expressions using Deep Learning (TensorFlow, OpenCV & DeepFace) with a Flask backend, SQLite database, and automated PDF report generation.
+
+<br/>
+
+`Python` `TensorFlow` `OpenCV` `Flask` `SQLite`
+
+<br/>
+
+[![View Repository](https://img.shields.io/badge/View_Repository_%E2%9E%94-6366F1?style=for-the-badge&labelColor=0A0F1D)](https://github.com/Dnyaneshwar0302/Web-Based-Emotion-Detection-)
 </td>
 
 <!-- Project 2 -->
 <td width="33%" valign="top">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0EA5E9&height=55&text=Online%20Exam%20System&fontSize=14&fontColor=FFFFFF&animation=fadeIn&fontAlignY=60"/>
-<br/><br/>
-<b>Full Stack Examination Platform</b>
-<br/><br/>
-<sub>Enterprise-grade examination platform featuring an interactive React frontend, Spring Boot backend, MySQL database, role-based authentication/authorization, and AI-assisted evaluation features.</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-0284C7?style=flat-square&logo=postman&logoColor=white"/>
-<br/><br/>
-<a href="https://github.com/Dnyaneshwar0302">
-  <img src="https://img.shields.io/badge/View_Repository_%E2%9E%94-0EA5E9?style=for-the-badge&labelColor=0A0F1D" alt="View Repository"/>
-</a>
+
+### 🌟 Online Exam System
+**Full Stack Examination Platform**
+
+Enterprise-grade examination platform featuring an interactive React frontend, Spring Boot backend, MySQL database, role-based authentication/authorization, and AI-assisted evaluation features.
+
+<br/>
+
+`React` `Spring Boot` `Java` `MySQL` `REST API`
+
+<br/>
+
+[![View Repository](https://img.shields.io/badge/View_Repository_%E2%9E%94-0EA5E9?style=for-the-badge&labelColor=0A0F1D)](https://github.com/Dnyaneshwar0302)
 </td>
 
 <!-- Project 3 -->
 <td width="33%" valign="top">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:EC4899&height=55&text=TaskBuddy%20React&fontSize=14&fontColor=FFFFFF&animation=fadeIn&fontAlignY=60"/>
-<br/><br/>
-<b>Interactive Task Management UI</b>
-<br/><br/>
-<sub>Modern, responsive React productivity application featuring full CRUD state management, Dark/Light mode theme switching, Framer Motion UI transitions, and dynamic progress metrics.</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<br/><br/>
-<a href="https://github.com/Dnyaneshwar0302/TaskBuddy-React">
-  <img src="https://img.shields.io/badge/View_Repository_%E2%9E%94-EC4899?style=for-the-badge&labelColor=0A0F1D" alt="View Repository"/>
-</a>
+
+### 🌟 TaskBuddy React
+**Interactive Task Management UI**
+
+Modern, responsive React productivity application featuring full CRUD state management, Dark/Light mode theme switching, Framer Motion UI transitions, and dynamic progress metrics.
+
+<br/>
+
+`React` `Framer Motion` `JavaScript` `CSS3`
+
+<br/>
+
+[![View Repository](https://img.shields.io/badge/View_Repository_%E2%9E%94-EC4899?style=for-the-badge&labelColor=0A0F1D)](https://github.com/Dnyaneshwar0302/TaskBuddy-React)
 </td>
 </tr>
 </table>
 
 <br/>
 
-<!-- ==================== OTHER PROJECTS ==================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1D,50:1E293B,100:8B5CF6&height=50&text=%F0%9F%93%A6%20Other%20Key%20Projects&fontSize=20&fontColor=FFFFFF&animation=fadeIn&fontAlignY=60"/>
+---
 
-<br/>
+## 📦 Other Notable Projects
 
 <table width="100%">
 <tr>
 <!-- Project 4 -->
 <td width="33%" valign="top">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:3B82F6&height=50&text=Cafe%20Management%20System&fontSize=13&fontColor=FFFFFF&animation=fadeIn&fontAlignY=60"/>
-<br/><br/>
-<sub>Python-based application engineered for cafe operations, order processing, and automated billing workflows.</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/CLI-4D4D4D?style=flat-square&logo=gnubash&logoColor=white"/>
-<br/><br/>
-<a href="https://github.com/Dnyaneshwar0302/Cafe-Management-System-">
-  <img src="https://img.shields.io/badge/Explore_Code-3B82F6?style=for-the-badge&labelColor=0A0F1D" alt="View Repository"/>
-</a>
+
+#### ☕ Cafe Management System
+Python-based application engineered for cafe operations, order handling, and automated billing workflows.
+
+<br/>
+
+`Python` `CLI` `Billing System`
+
+<br/>
+
+[![Explore Code](https://img.shields.io/badge/Explore_Code-3B82F6?style=for-the-badge&labelColor=0A0F1D)](https://github.com/Dnyaneshwar0302/Cafe-Management-System-)
 </td>
 
 <!-- Project 5 -->
 <td width="33%" valign="top">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:F59E0B&height=50&text=Simple%20Bank%20Account%20System&fontSize=13&fontColor=FFFFFF&animation=fadeIn&fontAlignY=60"/>
-<br/><br/>
-<sub>Core Java implementation showcasing Object-Oriented Programming (OOP), encapsulation, and secure transaction handling.</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/OOP-239120?style=flat-square&logo=cplusplus&logoColor=white"/>
-<br/><br/>
-<a href="https://github.com/Dnyaneshwar0302/Simple-Bank-Account-System">
-  <img src="https://img.shields.io/badge/Explore_Code-F59E0B?style=for-the-badge&labelColor=0A0F1D" alt="View Repository"/>
-</a>
+
+#### 🏦 Simple Bank Account System
+Core Java project demonstrating Object-Oriented Programming (OOP), encapsulation principles, and secure transaction handling.
+
+<br/>
+
+`Java` `OOP` `Encapsulation`
+
+<br/>
+
+[![Explore Code](https://img.shields.io/badge/Explore_Code-F59E0B?style=for-the-badge&labelColor=0A0F1D)](https://github.com/Dnyaneshwar0302/Simple-Bank-Account-System)
 </td>
 
 <!-- Project 6 -->
 <td width="33%" valign="top">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:10B981&height=50&text=Front-End%20Code&fontSize=13&fontColor=FFFFFF&animation=fadeIn&fontAlignY=60"/>
-<br/><br/>
-<sub>Foundational responsive web templates that ignited my frontend engineering journey with structured HTML & CSS.</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<br/><br/>
-<a href="https://github.com/Dnyaneshwar0302/Front-End-Code">
-  <img src="https://img.shields.io/badge/Explore_Code-10B981?style=for-the-badge&labelColor=0A0F1D" alt="View Repository"/>
-</a>
+
+#### 🌐 Front-End Code
+Foundational responsive web templates that ignited my frontend engineering journey with structured HTML & CSS.
+
+<br/>
+
+`HTML5` `CSS3` `Web Basics`
+
+<br/>
+
+[![Explore Code](https://img.shields.io/badge/Explore_Code-10B981?style=for-the-badge&labelColor=0A0F1D)](https://github.com/Dnyaneshwar0302/Front-End-Code)
 </td>
 </tr>
 </table>
 
 <br/>
 
-<!-- ==================== GITHUB STATS & ACTIVITY ==================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1D,50:0F766E,100:10B981&height=50&text=%F0%9F%93%8A%20GitHub%20Statistics%20%26%20Activity&fontSize=20&fontColor=FFFFFF&animation=fadeIn&fontAlignY=60"/>
+---
+
+## 📊 GitHub Analytics & Activity
 
 <div align="center">
 <br/>
@@ -303,8 +284,7 @@ I specialize in crafting responsive, visually engaging, and high-performance web
 
 <br/><br/>
 
-<!-- CONTRIBUTION SNAKE -->
-<h3>🐍 Contribution Graph Animation</h3>
+### 🐍 Contribution Graph Animation
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dnyaneshwar0302/Dnyaneshwar0302/output/github-snake-dark.svg">
@@ -316,8 +296,9 @@ I specialize in crafting responsive, visually engaging, and high-performance web
 
 <br/>
 
-<!-- ==================== LET'S CONNECT ==================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1D,50:1E1B4B,100:0EA5E9&height=50&text=%F0%9F%A4%9D%20Let%27s%20Connect%20%26%20Collaborate&fontSize=20&fontColor=FFFFFF&animation=fadeIn&fontAlignY=60"/>
+---
+
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
 <br/>
@@ -333,7 +314,7 @@ I specialize in crafting responsive, visually engaging, and high-performance web
 </a>
 &nbsp;
 <a href="mailto:dnyaneshwarsawale997@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0F1D" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0F1D" alt="Email"/>
 </a>
 &nbsp;
 <a href="https://wa.me/916361873025">
@@ -344,9 +325,6 @@ I specialize in crafting responsive, visually engaging, and high-performance web
 
 <b>❝ Designing intuitive interfaces, engineering robust systems, and learning continuously. ❞</b>
 
-<br/><br/>
+<br/>
 
 </div>
-
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050814,25:0D1B2A,50:1E1B4B,75:0E7490,100:06B6D4&height=130&section=footer&animation=fadeIn"/>
