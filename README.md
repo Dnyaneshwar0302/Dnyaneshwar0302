@@ -254,14 +254,14 @@ Foundational responsive web templates that ignited my frontend engineering journ
 
 ---
 
-## 📊 GitHub Analytics & Activity
+## 📊 GitHub Analytics & Achievements
 
 <div align="center">
 <br/>
 
 <a href="https://github.com/Dnyaneshwar0302">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dnyaneshwar0302&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnyaneshwar0302&layout=compact&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Top Languages"/>
+  <img height="170em" src="https://github-readme-stats-fast.vercel.app/api?username=Dnyaneshwar0302&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="170em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dnyaneshwar0302&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </a>
 
 <br/><br/>
@@ -273,24 +273,14 @@ Foundational responsive web templates that ignited my frontend engineering journ
 <br/><br/>
 
 <a href="https://github.com/Dnyaneshwar0302">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dnyaneshwar0302&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+  <img src="https://github-profile-trophy-psi.vercel.app/?username=Dnyaneshwar0302&theme=tokyonight&no-frame=true&margin-w=12&row=1" alt="GitHub Trophies"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/Dnyaneshwar0302">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dnyaneshwar0302&theme=tokyonight&no-frame=true&margin-w=12&row=1" alt="GitHub Trophies"/>
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dnyaneshwar0302&theme=tokyonight" alt="Profile Summary"/>
 </a>
-
-<br/><br/>
-
-### 🐍 Contribution Graph Animation
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dnyaneshwar0302/Dnyaneshwar0302/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dnyaneshwar0302/Dnyaneshwar0302/output/github-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Dnyaneshwar0302/Dnyaneshwar0302/output/github-snake-dark.svg" width="95%" />
-</picture>
 
 </div>
 
